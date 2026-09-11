@@ -1,6 +1,6 @@
 # Iris Flower Classification Using SVM
 
-This project was developed in Google Colab as part of my Artificial Intelligence Industrial Training at DecodeLabs.
+This project was developed in Google Colab as part of my Artificial Intelligence Internship at DecodeLabs.
 
 ## Overview
 
